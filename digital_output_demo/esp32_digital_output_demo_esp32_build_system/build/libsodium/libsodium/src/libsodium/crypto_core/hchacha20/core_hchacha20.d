@@ -1,0 +1,12 @@
+libsodium/src/libsodium/crypto_core/hchacha20/core_hchacha20.o: \
+ D:/waijung2/targets/esp32/setup/esp-idf/components/libsodium/libsodium/src/libsodium/crypto_core/hchacha20/core_hchacha20.c \
+ D:/waijung2/targets/esp32/setup/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/crypto_core_hchacha20.h \
+ D:/waijung2/targets/esp32/setup/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/export.h \
+ D:/waijung2/targets/esp32/setup/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/private/common.h
+
+D:/waijung2/targets/esp32/setup/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/crypto_core_hchacha20.h:
+
+D:/waijung2/targets/esp32/setup/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/export.h:
+
+D:/waijung2/targets/esp32/setup/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/private/common.h:
+/esp-idf/components/libsodium/libsodium/src/libsodium/crypto_core/hchacha20/core_hchacha20.c:

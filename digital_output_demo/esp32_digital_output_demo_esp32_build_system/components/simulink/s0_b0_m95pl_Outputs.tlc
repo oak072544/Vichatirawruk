@@ -1,0 +1,52 @@
+%implements s0_b0_m95pl_Outputs "C"
+
+%function Outputs(block, system) Output
+%assign cfgTxt = ""
+%openfile cfgTxt
+%assign localVarDecl = ""
+%assign tlcOutputsFcnOfS0B0 = OpaqueTLCBlockFcn("Outputs", 0, 0, 0, 0, 0)
+%assign tlcOutputsFcnOfS0B1 = OpaqueTLCBlockFcn("Outputs", 0, 1, 0, 0, 1)
+/* {S!d74}RelationalOperator: '<S1>/Compare' incorporates:
+ *  Constant: '<S1>/Constant'
+ *  UnitDelay: '<S5>/Output'
+ */
+/*@>1eaf*/esp32_digital_output_demo_B./*@>2480*/Compare/*@>25b*/ = (/*@>1f0f*/esp32_digital_output_demo_DW./*@>2486*/Output_DSTATE/*@>25a*/ == /*@>12f2*/0);
+/* {S!d76}RelationalOperator: '<S2>/Compare' incorporates:
+ *  Constant: '<S2>/Constant'
+ *  UnitDelay: '<S5>/Output'
+ */
+/*@>1eb7*/esp32_digital_output_demo_B./*@>2483*/Compare_n/*@>25f*/ = (/*@>1f17*/esp32_digital_output_demo_DW./*@>2489*/Output_DSTATE/*@>25e*/ == /*@>12f3*/1);
+%if !WHITE_SPACE(tlcOutputsFcnOfS0B0)
+/* {S!d78}S-Function (esp32_digital_output3): '<Root>/Digital Out' */
+%<SLibCG_DumpSSCode("/*@[20e1*/",tlcOutputsFcnOfS0B0,"/*@]*/")>\
+%endif
+/* {S!d80}Switch: '<S7>/FixPt Switch' incorporates:
+ *  Constant: '<S6>/FixPt Constant'
+ *  Constant: '<S7>/Constant'
+ *  Sum: '<S6>/FixPt Sum1'
+ *  UnitDelay: '<S5>/Output'
+ */
+/*@>16e9*/if (/*@>1616*/(uint8_T)(/*@>1f1f*/esp32_digital_output_demo_DW./*@>248c*/Output_DSTATE/*@>1617*/ + /*@>161b*/1U)/*@>553*/ > /*@>12f5*/4) {
+    /*@>1f35*/esp32_digital_output_demo_DW./*@>2492*/Output_DSTATE/*@>16ec*/ = /*@>2452*/0U;
+} else {
+    /*@>1f27*/esp32_digital_output_demo_DW./*@>248f*/Output_DSTATE/*@>2457*/++;
+}
+/* {E!d80}End of Switch: '<S7>/FixPt Switch' */
+%if !WHITE_SPACE(tlcOutputsFcnOfS0B1)
+
+/* {S!d82}S-Function (esp32_target_setup): '<Root>/Waijung 2 Target Setup' */
+%<SLibCG_DumpSSCode("/*@[20e2*/",tlcOutputsFcnOfS0B1,"/*@]*/")>\
+%endif
+%<SLibInsertSolverResetCode()>\
+%closefile cfgTxt
+%<cfgTxt>
+%<LibSetSystemField(system, "CachedOutputLocalVars", localVarDecl)>
+%endfunction
+%function OutputsFcnProtoType(block, system) Output
+%assign fcnProtoType = ""
+%openfile fcnProtoType
+static void Outputs(\
+%assign comma = ""
+%closefile fcnProtoType
+%<SLibCG_SetFcnProtoType(0, 0, fcnProtoType)>
+%endfunction

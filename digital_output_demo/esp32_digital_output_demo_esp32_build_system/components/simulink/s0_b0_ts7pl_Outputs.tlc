@@ -1,0 +1,66 @@
+%implements s0_b0_ts7pl_Outputs "C"
+
+%function Outputs(block, system) Output
+%assign cfgTxt = ""
+%openfile cfgTxt
+%assign localVarDecl = ""
+%assign tlcOutputsFcnOfS0B0 = OpaqueTLCBlockFcn("Outputs", 0, 0, 0, 0, 0)
+%assign tlcOutputsFcnOfS0B1 = OpaqueTLCBlockFcn("Outputs", 0, 1, 0, 0, 1)
+/* {S!d262}Logic: '<Root>/Logical Operator' incorporates:
+ *  Constant: '<S1>/Constant'
+ *  RelationalOperator: '<S1>/Compare'
+ *  UnitDelay: '<S5>/Output'
+ */
+/*@>269b*/esp32_digital_output_demo_B./*@>2f13*/LogicalOperator/*@>280*/ = (/*@>2740*/esp32_digital_output_demo_DW./*@>2f1f*/Output_DSTATE/*@>1025*/ != /*@>18ea*/0);
+/* {S!d264}Logic: '<Root>/Logical Operator2' incorporates:
+ *  Constant: '<S3>/Constant'
+ *  RelationalOperator: '<S3>/Compare'
+ *  UnitDelay: '<S5>/Output'
+ */
+/*@>26a3*/esp32_digital_output_demo_B./*@>2f16*/LogicalOperator2/*@>288*/ = (/*@>2748*/esp32_digital_output_demo_DW./*@>2f22*/Output_DSTATE/*@>102b*/ != /*@>18eb*/2);
+/* {S!d266}Logic: '<Root>/Logical Operator1' incorporates:
+ *  Constant: '<S2>/Constant'
+ *  RelationalOperator: '<S2>/Compare'
+ *  UnitDelay: '<S5>/Output'
+ */
+/*@>26ab*/esp32_digital_output_demo_B./*@>2f19*/LogicalOperator1/*@>290*/ = (/*@>2750*/esp32_digital_output_demo_DW./*@>2f25*/Output_DSTATE/*@>1031*/ != /*@>18ec*/1);
+/* {S!d268}Logic: '<Root>/Logical Operator3' incorporates:
+ *  Constant: '<S4>/Constant'
+ *  RelationalOperator: '<S4>/Compare'
+ *  UnitDelay: '<S5>/Output'
+ */
+/*@>26b3*/esp32_digital_output_demo_B./*@>2f1c*/LogicalOperator3/*@>298*/ = (/*@>2758*/esp32_digital_output_demo_DW./*@>2f28*/Output_DSTATE/*@>1037*/ != /*@>18ed*/3);
+%if !WHITE_SPACE(tlcOutputsFcnOfS0B0)
+/* {S!d270}S-Function (esp32_digital_output3): '<Root>/Digital Out' */
+%<SLibCG_DumpSSCode("/*@[295e*/",tlcOutputsFcnOfS0B0,"/*@]*/")>\
+%endif
+/* {S!d272}Switch: '<S7>/FixPt Switch' incorporates:
+ *  Constant: '<S6>/FixPt Constant'
+ *  Constant: '<S7>/Constant'
+ *  Sum: '<S6>/FixPt Sum1'
+ *  UnitDelay: '<S5>/Output'
+ */
+/*@>1da3*/if (/*@>1ca8*/(uint8_T)(/*@>2760*/esp32_digital_output_demo_DW./*@>2f2b*/Output_DSTATE/*@>1ca9*/ + /*@>1cad*/1U)/*@>5ee*/ > /*@>18ef*/3) {
+    /*@>2776*/esp32_digital_output_demo_DW./*@>2f31*/Output_DSTATE/*@>1da6*/ = /*@>2ed5*/0U;
+} else {
+    /*@>2768*/esp32_digital_output_demo_DW./*@>2f2e*/Output_DSTATE/*@>2eda*/++;
+}
+/* {E!d272}End of Switch: '<S7>/FixPt Switch' */
+%if !WHITE_SPACE(tlcOutputsFcnOfS0B1)
+
+/* {S!d274}S-Function (esp32_target_setup): '<Root>/Waijung 2 Target Setup' */
+%<SLibCG_DumpSSCode("/*@[295f*/",tlcOutputsFcnOfS0B1,"/*@]*/")>\
+%endif
+%<SLibInsertSolverResetCode()>\
+%closefile cfgTxt
+%<cfgTxt>
+%<LibSetSystemField(system, "CachedOutputLocalVars", localVarDecl)>
+%endfunction
+%function OutputsFcnProtoType(block, system) Output
+%assign fcnProtoType = ""
+%openfile fcnProtoType
+static void Outputs(\
+%assign comma = ""
+%closefile fcnProtoType
+%<SLibCG_SetFcnProtoType(0, 0, fcnProtoType)>
+%endfunction

@@ -1,0 +1,162 @@
+%implements s0_b0_j702l_TLCInterface "C"
+
+%function getInputAddr_0_0_0_0_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<3028*//*@>301c*/esp32_digital_output_demo_B./*@>302e*/LogicalOperator1"
+%endfunction
+
+%function getInput_0_0_0_0_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>303c*/esp32_digital_output_demo_B./*@>304f*/LogicalOperator1"
+%endfunction
+
+%function getInputAddr_0_0_0_0_0_1_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<3067*//*@>305b*/esp32_digital_output_demo_B./*@>306d*/LogicalOperator3"
+%endfunction
+
+%function getInput_0_0_0_0_0_1_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>307b*/esp32_digital_output_demo_B./*@>308e*/LogicalOperator3"
+%endfunction
+
+%function getInputAddr_0_0_0_0_0_2_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<30a6*//*@>309a*/esp32_digital_output_demo_B./*@>30ac*/LogicalOperator2"
+%endfunction
+
+%function getInput_0_0_0_0_0_2_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>30ba*/esp32_digital_output_demo_B./*@>30cd*/LogicalOperator2"
+%endfunction
+
+%function getInputAddr_0_0_0_0_0_3_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<30e5*//*@>30d9*/esp32_digital_output_demo_B./*@>30eb*/LogicalOperator"
+%endfunction
+
+%function getInput_0_0_0_0_0_3_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>30f9*/esp32_digital_output_demo_B./*@>310c*/LogicalOperator"
+%endfunction
+
+%function getInputAddr_0_0_0_1_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<314e*//*@>3142*/esp32_digital_output_demo_B./*@>3154*/LogicalOperator1"
+%endfunction
+
+%function getInput_0_0_0_1_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>3162*/esp32_digital_output_demo_B./*@>3175*/LogicalOperator1"
+%endfunction
+
+%function getInputAddr_0_0_0_1_0_1_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<318d*//*@>3181*/esp32_digital_output_demo_B./*@>3193*/LogicalOperator3"
+%endfunction
+
+%function getInput_0_0_0_1_0_1_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>31a1*/esp32_digital_output_demo_B./*@>31b4*/LogicalOperator3"
+%endfunction
+
+%function getInputAddr_0_0_0_1_0_2_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<31cc*//*@>31c0*/esp32_digital_output_demo_B./*@>31d2*/LogicalOperator2"
+%endfunction
+
+%function getInput_0_0_0_1_0_2_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>31e0*/esp32_digital_output_demo_B./*@>31f3*/LogicalOperator2"
+%endfunction
+
+%function getInputAddr_0_0_0_1_0_3_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<320b*//*@>31ff*/esp32_digital_output_demo_B./*@>3211*/LogicalOperator"
+%endfunction
+
+%function getInput_0_0_0_1_0_3_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>321f*/esp32_digital_output_demo_B./*@>3232*/LogicalOperator"
+%endfunction
+
+%function getInputAddr_0_0_0_2_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<3274*//*@>3268*/esp32_digital_output_demo_B./*@>327a*/LogicalOperator1"
+%endfunction
+
+%function getInput_0_0_0_2_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>3288*/esp32_digital_output_demo_B./*@>329b*/LogicalOperator1"
+%endfunction
+
+%function getInputAddr_0_0_0_2_0_1_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<32b3*//*@>32a7*/esp32_digital_output_demo_B./*@>32b9*/LogicalOperator3"
+%endfunction
+
+%function getInput_0_0_0_2_0_1_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>32c7*/esp32_digital_output_demo_B./*@>32da*/LogicalOperator3"
+%endfunction
+
+%function getInputAddr_0_0_0_2_0_2_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<32f2*//*@>32e6*/esp32_digital_output_demo_B./*@>32f8*/LogicalOperator2"
+%endfunction
+
+%function getInput_0_0_0_2_0_2_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>3306*/esp32_digital_output_demo_B./*@>3319*/LogicalOperator2"
+%endfunction
+
+%function getInputAddr_0_0_0_2_0_3_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<3331*//*@>3325*/esp32_digital_output_demo_B./*@>3337*/LogicalOperator"
+%endfunction
+
+%function getInput_0_0_0_2_0_3_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>3345*/esp32_digital_output_demo_B./*@>3358*/LogicalOperator"
+%endfunction
+
+%function getInputAddr_0_0_0_2_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<3385*//*@>3379*/esp32_digital_output_demo_B./*@>338b*/LogicalOperator1"
+%endfunction
+
+%function getInput_0_0_0_2_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>3399*/esp32_digital_output_demo_B./*@>33ac*/LogicalOperator1"
+%endfunction
+
+%function getInputAddr_0_0_0_2_1_1_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<33c4*//*@>33b8*/esp32_digital_output_demo_B./*@>33ca*/LogicalOperator3"
+%endfunction
+
+%function getInput_0_0_0_2_1_1_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>33d8*/esp32_digital_output_demo_B./*@>33eb*/LogicalOperator3"
+%endfunction
+
+%function getInputAddr_0_0_0_2_1_2_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<3403*//*@>33f7*/esp32_digital_output_demo_B./*@>3409*/LogicalOperator2"
+%endfunction
+
+%function getInput_0_0_0_2_1_2_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>3417*/esp32_digital_output_demo_B./*@>342a*/LogicalOperator2"
+%endfunction
+
+%function getInputAddr_0_0_0_2_1_3_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<3442*//*@>3436*/esp32_digital_output_demo_B./*@>3448*/LogicalOperator"
+%endfunction
+
+%function getInput_0_0_0_2_1_3_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>3456*/esp32_digital_output_demo_B./*@>3469*/LogicalOperator"
+%endfunction
+
