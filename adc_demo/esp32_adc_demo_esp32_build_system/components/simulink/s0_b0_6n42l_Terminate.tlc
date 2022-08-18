@@ -1,0 +1,32 @@
+%implements s0_b0_6n42l_Terminate "C"
+
+%function Terminate(block, system) Output
+%assign cfgTxt = ""
+%openfile cfgTxt
+%assign localVarDecl = ""
+%assign tlcTerminateFcnOfS0B0 = OpaqueTLCBlockFcn("Terminate", 0, 0, 0, 1, 0)
+%assign tlcTerminateFcnOfS0B1 = OpaqueTLCBlockFcn("Terminate", 0, 1, 0, 1, 1)
+%assign tlcTerminateFcnOfS0B2 = OpaqueTLCBlockFcn("Terminate", 0, 2, 0, 1, 2)
+%if !WHITE_SPACE(tlcTerminateFcnOfS0B0)
+/* Terminate for S-Function (esp32_adc): '<Root>/ADC' */
+%<SLibCG_DumpSSCode("/*@[197a*/",tlcTerminateFcnOfS0B0,"/*@]*/")>\
+%endif
+%if !WHITE_SPACE(tlcTerminateFcnOfS0B1)
+/* Terminate for S-Function (esp32_digital_output3): '<Root>/Digital Out' */
+%<SLibCG_DumpSSCode("/*@[197c*/",tlcTerminateFcnOfS0B1,"/*@]*/")>\
+%endif
+%if !WHITE_SPACE(tlcTerminateFcnOfS0B2)
+/* Terminate for S-Function (esp32_target_setup): '<Root>/Waijung 2 Target Setup' */
+%<SLibCG_DumpSSCode("/*@[197d*/",tlcTerminateFcnOfS0B2,"/*@]*/")>\
+%endif
+%closefile cfgTxt
+%<cfgTxt>
+%endfunction
+%function TerminateFcnProtoType(block, system) Output
+%assign fcnProtoType = ""
+%openfile fcnProtoType
+static void Terminate(\
+%assign comma = ""
+%closefile fcnProtoType
+%<SLibCG_SetFcnProtoType(0, 1, fcnProtoType)>
+%endfunction

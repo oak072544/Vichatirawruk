@@ -1,0 +1,16 @@
+%% Template for generating code for Waijung ESP32 Target Blockset
+%% 
+%% Waijung ESP32 Target Blockset supports ESP-IDF, FreeRTOS, and multitasking mode only.
+%%
+%% Reference: MATLABROOT\R2018b\toolbox\rtw\targets\ecoder\example_file_process.tlc
+
+%selectfile NULL_FILE
+
+%if GenerateSampleERTMain
+   %assign CompiledModel.GenerateSampleERTMain = TLC_FALSE
+%endif
+
+%include "esp32_mainlib.tlc"
+%%include "ertmainlib.tlc"
+%<SLibCreateSampleMain()>
+

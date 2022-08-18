@@ -1,0 +1,38 @@
+%implements s0_b0_zb52l_Outputs "C"
+
+%function Outputs(block, system) Output
+%assign cfgTxt = ""
+%openfile cfgTxt
+%assign localVarDecl = ""
+%assign tlcOutputsFcnOfS0B0 = OpaqueTLCBlockFcn("Outputs", 0, 0, 0, 0, 0)
+%assign tlcOutputsFcnOfS0B1 = OpaqueTLCBlockFcn("Outputs", 0, 1, 0, 0, 1)
+%assign tlcOutputsFcnOfS0B2 = OpaqueTLCBlockFcn("Outputs", 0, 2, 0, 0, 2)
+%if !WHITE_SPACE(tlcOutputsFcnOfS0B0)
+/* S-Function (esp32_adc): '<Root>/ADC' */
+%<SLibCG_DumpSSCode("/*@[1971*/",tlcOutputsFcnOfS0B0,"/*@]*/")>\
+%endif
+/* RelationalOperator: '<S1>/Compare' incorporates:
+ *  Constant: '<S1>/Constant'
+ */
+/*@>178a*/esp32_adc_demo_B./*@>1d98*/Compare/*@>183*/ = (/*@>1790*/esp32_adc_demo_B./*@>1d9b*/ADC/*@>182*/ >= /*@>db2*/500);
+%if !WHITE_SPACE(tlcOutputsFcnOfS0B1)
+/* S-Function (esp32_digital_output3): '<Root>/Digital Out' */
+%<SLibCG_DumpSSCode("/*@[1973*/",tlcOutputsFcnOfS0B1,"/*@]*/")>\
+%endif
+%if !WHITE_SPACE(tlcOutputsFcnOfS0B2)
+/* S-Function (esp32_target_setup): '<Root>/Waijung 2 Target Setup' */
+%<SLibCG_DumpSSCode("/*@[1974*/",tlcOutputsFcnOfS0B2,"/*@]*/")>\
+%endif
+%<SLibInsertSolverResetCode()>\
+%closefile cfgTxt
+%<cfgTxt>
+%<LibSetSystemField(system, "CachedOutputLocalVars", localVarDecl)>
+%endfunction
+%function OutputsFcnProtoType(block, system) Output
+%assign fcnProtoType = ""
+%openfile fcnProtoType
+static void Outputs(\
+%assign comma = ""
+%closefile fcnProtoType
+%<SLibCG_SetFcnProtoType(0, 0, fcnProtoType)>
+%endfunction

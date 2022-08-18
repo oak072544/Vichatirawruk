@@ -1,0 +1,82 @@
+%implements s0_b0_ck52l_TLCInterface "C"
+
+%function getOutputAddr_0_0_0_0_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<1ac1*//*@>1ab5*/esp32_adc_demo_B./*@>1ac7*/ADC"
+%endfunction
+
+%function getOutput_0_0_0_0_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>1ad5*/esp32_adc_demo_B./*@>1ae8*/ADC"
+%endfunction
+
+%function getInputAddr_0_1_0_0_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<1b15*//*@>1b09*/esp32_adc_demo_B./*@>1b1b*/Compare"
+%endfunction
+
+%function getInput_0_1_0_0_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>1b29*/esp32_adc_demo_B./*@>1b3c*/Compare"
+%endfunction
+
+%function getOutputAddr_0_0_0_1_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<1b7e*//*@>1b72*/esp32_adc_demo_B./*@>1b84*/ADC"
+%endfunction
+
+%function getOutput_0_0_0_1_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>1b92*/esp32_adc_demo_B./*@>1ba5*/ADC"
+%endfunction
+
+%function getInputAddr_0_1_0_1_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<1bd2*//*@>1bc6*/esp32_adc_demo_B./*@>1bd8*/Compare"
+%endfunction
+
+%function getInput_0_1_0_1_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>1be6*/esp32_adc_demo_B./*@>1bf9*/Compare"
+%endfunction
+
+%function getOutputAddr_0_0_0_2_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<1c3b*//*@>1c2f*/esp32_adc_demo_B./*@>1c41*/ADC"
+%endfunction
+
+%function getOutput_0_0_0_2_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>1c4f*/esp32_adc_demo_B./*@>1c62*/ADC"
+%endfunction
+
+%function getInputAddr_0_1_0_2_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<1c8f*//*@>1c83*/esp32_adc_demo_B./*@>1c95*/Compare"
+%endfunction
+
+%function getInput_0_1_0_2_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>1ca3*/esp32_adc_demo_B./*@>1cb6*/Compare"
+%endfunction
+
+%function getOutputAddr_0_0_0_2_2_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<1ce3*//*@>1cd7*/esp32_adc_demo_B./*@>1ce9*/ADC"
+%endfunction
+
+%function getOutput_0_0_0_2_2_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>1cf7*/esp32_adc_demo_B./*@>1d0a*/ADC"
+%endfunction
+
+%function getInputAddr_0_1_0_2_3_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&/*@<1d37*//*@>1d2b*/esp32_adc_demo_B./*@>1d3d*/Compare"
+%endfunction
+
+%function getInput_0_1_0_2_3_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "/*@>1d4b*/esp32_adc_demo_B./*@>1d5e*/Compare"
+%endfunction
+
