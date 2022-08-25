@@ -6,7 +6,7 @@ tcpip_adapter_lwip.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_wifi/include/esp_private/esp_wifi_types_private.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_interface.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_event/include/esp_event_base.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip_addr.h \
@@ -123,7 +123,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_interface.h:
 

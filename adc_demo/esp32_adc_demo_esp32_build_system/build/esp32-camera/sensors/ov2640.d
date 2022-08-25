@@ -6,7 +6,7 @@ sensors/ov2640.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/AdditionalComponents/esp32-camera/sensors/private_include/ov2640_regs.h \
  D:/waijung2/targets/esp32/setup/esp-idf/AdditionalComponents/esp32-camera/sensors/private_include/ov2640_settings.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/AdditionalComponents/esp32-camera/sensors/private_include/ov2640_regs.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
@@ -57,7 +57,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/AdditionalComponents/esp32-camera/sensor
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/AdditionalComponents/esp32-camera/sensors/private_include/ov2640_regs.h:
 

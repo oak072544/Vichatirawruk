@@ -1,7 +1,7 @@
 spi_flash_os_func_app.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/spi_flash/spi_flash_os_func_app.c \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/spi_flash/include/esp_spi_flash.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h \
@@ -14,7 +14,7 @@ spi_flash_os_func_app.o: \
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h:
 

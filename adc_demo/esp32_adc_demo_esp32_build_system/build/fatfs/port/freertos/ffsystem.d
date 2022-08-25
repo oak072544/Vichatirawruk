@@ -2,7 +2,7 @@ port/freertos/ffsystem.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/fatfs/port/freertos/ffsystem.c \
  D:/waijung2/targets/esp32/setup/esp-idf/components/fatfs/src/ff.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/fatfs/src/ffconf.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_config.h \
@@ -43,7 +43,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/fatfs/src/ff.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/fatfs/src/ffconf.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 

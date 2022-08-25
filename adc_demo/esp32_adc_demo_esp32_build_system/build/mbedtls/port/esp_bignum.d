@@ -1,7 +1,7 @@
 port/esp_bignum.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/esp_bignum.c \
  D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/bigint.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/hwcrypto_periph.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/dport_reg.h \
@@ -63,7 +63,7 @@ port/esp_bignum.o: \
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/bigint.h:
 

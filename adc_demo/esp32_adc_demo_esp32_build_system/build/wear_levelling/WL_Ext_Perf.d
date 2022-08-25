@@ -4,7 +4,7 @@ WL_Ext_Perf.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/wear_levelling/private_include/WL_Flash.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/wear_levelling/private_include/Flash_Access.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/wear_levelling/private_include/WL_Config.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/wear_levelling/private_include/WL_State.h \
@@ -21,7 +21,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/wear_levelling/private_include/Flash_Access.h:
 

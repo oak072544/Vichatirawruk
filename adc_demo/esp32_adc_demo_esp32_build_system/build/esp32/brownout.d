@@ -1,6 +1,6 @@
 brownout.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/brownout.c \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/soc.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_assert.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h \
@@ -49,7 +49,7 @@ brownout.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/portbenchmark.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/mpu_wrappers.h
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/soc.h:
 

@@ -1,7 +1,7 @@
 locks.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/locks.c \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/cpu.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/corebits.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
@@ -43,7 +43,7 @@ locks.o: \
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/cpu.h:
 

@@ -3,7 +3,7 @@ src/esp32/flash_encrypt.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/spi_flash/include/esp_spi_flash.h \
- d:\waijung2\targets\esp32\demo\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h \
+ d:\vichatirawruk\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/bootloader_support/include/esp_image_format.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_types.h \
@@ -51,7 +51,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/spi_flash/include/esp_spi_flash.h:
 
-d:\waijung2\targets\esp32\demo\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h:
+d:\vichatirawruk\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/bootloader_support/include/esp_image_format.h:
 

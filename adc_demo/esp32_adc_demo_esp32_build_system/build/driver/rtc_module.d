@@ -2,7 +2,7 @@ rtc_module.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/driver/rtc_module.c \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_types.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log_internal.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/rtc_periph.h \
@@ -85,7 +85,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_types.
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log.h:
 

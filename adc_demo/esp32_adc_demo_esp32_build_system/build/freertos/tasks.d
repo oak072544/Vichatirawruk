@@ -1,7 +1,7 @@
 tasks.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/tasks.c \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/esp_newlib.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
@@ -53,7 +53,7 @@ tasks.o: \
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/esp_newlib.h:
 

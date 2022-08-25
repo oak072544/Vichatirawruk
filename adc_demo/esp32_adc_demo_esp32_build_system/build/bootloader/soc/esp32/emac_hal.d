@@ -1,6 +1,6 @@
 esp32/emac_hal.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/emac_hal.c \
- d:\waijung2\targets\esp32\demo\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h \
+ d:\vichatirawruk\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/gpio_periph.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_pins.h \
@@ -25,7 +25,7 @@ esp32/emac_hal.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/emac_mac_struct.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/emac_ext_struct.h
 
-d:\waijung2\targets\esp32\demo\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h:
+d:\vichatirawruk\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h:
 

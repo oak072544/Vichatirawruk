@@ -6,7 +6,7 @@ panic.o: D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/panic.c \
  D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/rtc.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/soc.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_assert.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h \
@@ -104,7 +104,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/rtc
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/soc.h:
 

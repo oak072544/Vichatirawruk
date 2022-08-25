@@ -1,7 +1,7 @@
 multi_heap.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/heap/multi_heap.c \
  D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/heap/include/multi_heap.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/heap/multi_heap_internal.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/heap/multi_heap_platform.h \
@@ -40,7 +40,7 @@ multi_heap.o: \
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/heap/include/multi_heap.h:
 

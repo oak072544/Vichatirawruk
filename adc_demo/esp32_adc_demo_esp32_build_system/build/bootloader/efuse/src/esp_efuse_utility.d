@@ -5,7 +5,7 @@ src/esp_efuse_utility.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/efuse/include/esp_efuse.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log.h \
- d:\waijung2\targets\esp32\demo\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h \
+ d:\vichatirawruk\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log_internal.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/efuse_periph.h \
@@ -25,7 +25,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/efuse/include/esp_efuse.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log.h:
 
-d:\waijung2\targets\esp32\demo\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h:
+d:\vichatirawruk\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 

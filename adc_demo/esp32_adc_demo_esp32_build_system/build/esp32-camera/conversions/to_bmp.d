@@ -4,7 +4,7 @@ conversions/to_bmp.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/AdditionalComponents/esp32-camera/driver/include/esp_camera.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/driver/include/driver/ledc.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/soc.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_assert.h \
@@ -52,7 +52,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/driver/include/driver/ledc.h:
 

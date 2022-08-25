@@ -10,7 +10,7 @@ src/esp32/bootloader_sha.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_bit_defs.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/dport_access.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h \
- d:\waijung2\targets\esp32\demo\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h \
+ d:\vichatirawruk\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp32/dport_access.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/uart_reg.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime.h \
@@ -46,7 +46,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/dport_a
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h:
 
-d:\waijung2\targets\esp32\demo\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h:
+d:\vichatirawruk\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp32/dport_access.h:
 
