@@ -9,7 +9,7 @@ port.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/corebits.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_context.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h \
@@ -69,7 +69,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/c
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 

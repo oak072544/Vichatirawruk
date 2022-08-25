@@ -2,7 +2,7 @@ src/esp_image_format.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/bootloader_support/src/esp_image_format.c \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/rtc.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
- d:\waijung2\targets\esp32\demo\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h \
+ d:\vichatirawruk\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/soc.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_assert.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_bit_defs.h \
@@ -38,7 +38,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/rtc
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 
-d:\waijung2\targets\esp32\demo\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h:
+d:\vichatirawruk\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/soc.h:
 

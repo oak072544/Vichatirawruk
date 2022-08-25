@@ -13,7 +13,7 @@ xtensa/gdbstub_xtensa.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_gdbstub/esp32/gdbstub_target_config.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_gdbstub/private_include/esp_gdbstub_common.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/cpu.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/soc_memory_layout.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/soc.h \
@@ -48,7 +48,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/esp_gdbstub/esp32/gdbstub_tar
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp_gdbstub/private_include/esp_gdbstub_common.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/cpu.h:
 

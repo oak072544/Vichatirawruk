@@ -14,7 +14,7 @@ dport_panic_highint_hdl.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_context.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/esp_private/panic_reason.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/soc.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_bit_defs.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/dport_reg.h \
@@ -48,7 +48,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtrunti
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/esp_private/panic_reason.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/soc.h:
 

@@ -13,7 +13,7 @@ src/hal/spi_flash_hal.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/spi_struct.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_sig_map.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/hal/spi_types.h \
- d:\waijung2\targets\esp32\demo\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h \
+ d:\vichatirawruk\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/hal/spi_flash_types.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_types.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/hal/esp_flash_err.h \
@@ -51,7 +51,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_si
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/hal/spi_types.h:
 
-d:\waijung2\targets\esp32\demo\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h:
+d:\vichatirawruk\adc_demo\esp32_adc_demo_esp32_build_system\build\include\sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/hal/spi_flash_types.h:
 

@@ -1,6 +1,6 @@
 src/idf/secure_boot_signatures.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/bootloader_support/src/idf/secure_boot_signatures.c \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h \
@@ -35,7 +35,7 @@ src/idf/secure_boot_signatures.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h:
 

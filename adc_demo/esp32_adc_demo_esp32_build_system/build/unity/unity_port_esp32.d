@@ -5,7 +5,7 @@ unity_port_esp32.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/unity/include/unity_config.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/unity/include/unity_test_runner.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp32/clk.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/uart.h \
@@ -39,7 +39,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/unity/include/unity_test_runner.h:
 

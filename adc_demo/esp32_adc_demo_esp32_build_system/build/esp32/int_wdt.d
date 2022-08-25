@@ -1,6 +1,6 @@
 int_wdt.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/int_wdt.c \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_config.h \
@@ -51,7 +51,7 @@ int_wdt.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/periph_defs.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_int_wdt.h
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 

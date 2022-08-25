@@ -3,7 +3,7 @@ esp32/rtc_init.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/soc.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_assert.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_bit_defs.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/rtc.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/rtc_periph.h \
@@ -43,7 +43,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_assert
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_bit_defs.h:
 

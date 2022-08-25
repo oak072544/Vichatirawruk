@@ -2,7 +2,7 @@ src/tls/x509v3.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/wpa_supplicant/src/tls/x509v3.c \
  D:/waijung2/targets/esp32/setup/esp-idf/components/wpa_supplicant/src/utils/includes.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/wpa_supplicant/port/include/supplicant_opt.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/wpa_supplicant/src/rsn_supp/wpa.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/wpa_supplicant/src/utils/common.h \
@@ -42,7 +42,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/wpa_supplicant/src/utils/incl
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/wpa_supplicant/port/include/supplicant_opt.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 

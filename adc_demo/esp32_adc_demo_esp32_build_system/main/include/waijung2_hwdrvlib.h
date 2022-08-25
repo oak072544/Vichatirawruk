@@ -8,9 +8,9 @@
  * Code generated with Waijung 2 ESP32 Target Blockset,
  * for Simulink model 'esp32_adc_demo'.
  *
- * Model version                  : 1.7
+ * Model version                  : 8.0
  * Simulink Coder version         : 9.7 (R2022a) 13-Nov-2021
- * C/C++ source code generated on : Thu Aug 18 10:48:51 2022
+ * C/C++ source code generated on : Thu Aug 25 09:02:28 2022
  *
  * Target selection: esp32.tlc
  * Embedded hardware selection: Cadence Design Systems (Tensilica)->Xtensa® single-/dual-core 32-bit LX6 microprocessor

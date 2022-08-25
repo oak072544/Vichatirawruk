@@ -2,7 +2,7 @@ common/esp_modbus_slave.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freemodbus/common/esp_modbus_slave.c \
  D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freemodbus/common/mbc_slave.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/driver/include/driver/uart.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/uart_periph.h \
@@ -78,7 +78,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/freemodbus/common/mbc_slave.h:
 

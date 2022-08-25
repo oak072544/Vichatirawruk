@@ -2,7 +2,7 @@ esp-mqtt/lib/mqtt_msg.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/mqtt/esp-mqtt/lib/mqtt_msg.c \
  D:/waijung2/targets/esp32/setup/esp-idf/components/mqtt/esp-mqtt/lib/include/mqtt_msg.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/mqtt/esp-mqtt/include/mqtt_config.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/mqtt/esp-mqtt/lib/include/platform.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/mqtt/esp-mqtt/lib/include/platform_esp32_idf.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
@@ -90,7 +90,7 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/mqtt/esp-mqtt/lib/include/mqt
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/mqtt/esp-mqtt/include/mqtt_config.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/mqtt/esp-mqtt/lib/include/platform.h:
 

@@ -1,11 +1,11 @@
 ert_main.o: \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/main/ert_main.c \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/main/include/esp32_adc_demo.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/main/include/rtwtypes.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/main/include/waijung2_hwdrvlib.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/main/ert_main.c \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/main/include/esp32_adc_demo.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/main/include/rtwtypes.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/main/include/waijung2_hwdrvlib.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/hal.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
@@ -62,21 +62,21 @@ ert_main.o: \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_sig_map.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/adc_periph.h \
  D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/adc_channel.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/main/include/esp32_adc_demo_types.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/main/include/rtwtypes.h \
- D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/main/include/waijung2_hwdrvlib.h
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/main/include/esp32_adc_demo_types.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/main/include/rtwtypes.h \
+ D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/main/include/waijung2_hwdrvlib.h
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/main/include/esp32_adc_demo.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/main/include/esp32_adc_demo.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/main/include/rtwtypes.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/main/include/rtwtypes.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/main/include/waijung2_hwdrvlib.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/main/include/waijung2_hwdrvlib.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 
@@ -190,9 +190,9 @@ D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/adc_periph.h:
 
 D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/adc_channel.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/main/include/esp32_adc_demo_types.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/main/include/esp32_adc_demo_types.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/main/include/rtwtypes.h:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/main/include/rtwtypes.h:
 
-D:/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/main/include/waijung2_hwdrvlib.h:
-/cygdrive/d/waijung2/targets/esp32/demo/adc_demo/esp32_adc_demo_esp32_build_system/main/./ert_main.c:
+D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/main/include/waijung2_hwdrvlib.h:
+/cygdrive/d/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/main/./ert_main.c:
