@@ -1,75 +1,75 @@
 mbedtls/library/x509_crt.o: \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/library/x509_crt.c \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
- D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/config.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/esp_mem.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crt.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/bignum.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crl.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/oid.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/cipher.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pem.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_time.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/time.h
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/library/x509_crt.c \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
+ C:/Users/oak07/Documents/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/config.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/esp_mem.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crt.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/bignum.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crl.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/oid.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/cipher.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pem.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_time.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/time.h
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+C:/Users/oak07/Documents/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/config.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/config.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/esp_mem.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/esp_mem.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crt.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crt.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/bignum.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/bignum.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crl.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crl.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/oid.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/oid.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/cipher.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/cipher.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pem.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pem.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_time.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_time.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/time.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/time.h:
 /esp-idf/components/mbedtls/mbedtls/library/x509_crt.c:

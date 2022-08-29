@@ -1,360 +1,360 @@
 transport_ssl.o: \
- D:/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/transport_ssl.c \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- D:/waijung2/targets/esp32/demo/digital_output_demo/esp32_digital_output_demo_esp32_build_system/build/include/sdkconfig.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_config.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/hal.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_context.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/corebits.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/projdefs.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/portable.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/deprecated_definitions.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/cpu.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/portmacro.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/specreg.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime-core-state.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_private/crosscore_int.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_timer.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/heap/include/esp_heap_caps.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/heap/include/multi_heap.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/portbenchmark.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/mpu_wrappers.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_system.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_bit_defs.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_idf_version.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/task.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/list.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp-tls/esp_tls.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/sys/socket.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/sockets.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/opt.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/lwipopts.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/time.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/sys/time.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/vfs/include/sys/ioctl.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_task.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/include/apps/sntp/sntp.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/netif/dhcp_state.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/debug.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/arch.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/arch/cc.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/errno.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/arch/sys_arch.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/queue.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/semphr.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/queue.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/arch/vfs_lwip.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/sys/poll.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip_addr.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/def.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip4_addr.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip6_addr.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/def.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip6_zone.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/netif.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/err.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/pbuf.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/stats.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/mem.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/memp.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/priv/memp_std.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/priv/memp_priv.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/priv/mem_priv.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/inet.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/errno.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/config.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/esp_mem.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_time.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/net_sockets.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/bignum.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_ciphersuites.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/cipher.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crt.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crl.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/dhm.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdh.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/mbedtls/esp_debug.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/entropy.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/sha512.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/sha512_alt.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ctr_drbg.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/aes.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/aes_alt.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/esp32/aes.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_types.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/aes.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/error.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/certs.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log_internal.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/include/esp_transport.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/include/esp_transport_ssl.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/include/esp_transport.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/private_include/esp_transport_utils.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/private_include/esp_transport_ssl_internal.h
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/transport_ssl.c \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
+ C:/Users/oak07/Documents/Vichatirawruk/digital_output_demo/esp32_digital_output_demo_esp32_build_system/build/include/sdkconfig.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_config.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/hal.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_context.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/corebits.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/projdefs.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/portable.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/deprecated_definitions.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/cpu.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/portmacro.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/specreg.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime-core-state.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_private/crosscore_int.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_timer.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/heap/include/esp_heap_caps.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/heap/include/multi_heap.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/portbenchmark.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/mpu_wrappers.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_system.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_bit_defs.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_idf_version.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/task.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/list.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp-tls/esp_tls.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/sys/socket.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/sockets.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/opt.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/lwipopts.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/time.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/sys/time.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/vfs/include/sys/ioctl.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_task.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/include/apps/sntp/sntp.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/netif/dhcp_state.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/debug.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/arch.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/arch/cc.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/errno.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/arch/sys_arch.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/queue.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/semphr.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/queue.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/arch/vfs_lwip.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/sys/poll.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip_addr.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/def.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip4_addr.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip6_addr.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/def.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip6_zone.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/netif.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/err.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/pbuf.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/stats.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/mem.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/memp.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/priv/memp_std.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/priv/memp_priv.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/priv/mem_priv.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/inet.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/errno.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/config.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/esp_mem.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_time.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/net_sockets.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/bignum.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_ciphersuites.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/cipher.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crt.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crl.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/dhm.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdh.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/mbedtls/esp_debug.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/entropy.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/sha512.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/sha512_alt.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ctr_drbg.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/aes.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/aes_alt.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/esp32/aes.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_types.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/aes.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/error.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/certs.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log_internal.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/include/esp_transport.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/include/esp_transport_ssl.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/include/esp_transport.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/private_include/esp_transport_utils.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/private_include/esp_transport_ssl_internal.h
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-D:/waijung2/targets/esp32/demo/digital_output_demo/esp32_digital_output_demo_esp32_build_system/build/include/sdkconfig.h:
+C:/Users/oak07/Documents/Vichatirawruk/digital_output_demo/esp32_digital_output_demo_esp32_build_system/build/include/sdkconfig.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_config.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/hal.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/hal.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_context.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_context.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/corebits.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/corebits.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/projdefs.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/projdefs.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/portable.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/portable.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/deprecated_definitions.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/deprecated_definitions.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/cpu.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/cpu.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/portmacro.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/portmacro.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/specreg.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/specreg.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime-core-state.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime-core-state.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_private/crosscore_int.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_private/crosscore_int.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_timer.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_timer.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/heap/include/esp_heap_caps.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/heap/include/esp_heap_caps.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/heap/include/multi_heap.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/heap/include/multi_heap.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/portbenchmark.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/portbenchmark.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/mpu_wrappers.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/mpu_wrappers.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_system.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_system.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_bit_defs.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_bit_defs.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_idf_version.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_idf_version.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/task.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/task.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/list.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/list.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp-tls/esp_tls.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp-tls/esp_tls.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/sys/socket.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/sys/socket.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/sockets.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/sockets.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/opt.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/opt.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/lwipopts.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/lwipopts.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/time.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/time.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/sys/time.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/sys/time.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/vfs/include/sys/ioctl.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/vfs/include/sys/ioctl.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_task.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_task.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/include/apps/sntp/sntp.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/include/apps/sntp/sntp.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/netif/dhcp_state.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/netif/dhcp_state.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/debug.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/debug.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/arch.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/arch.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/arch/cc.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/arch/cc.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/errno.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/errno.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/arch/sys_arch.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/arch/sys_arch.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/queue.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/queue.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/semphr.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/semphr.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/queue.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/queue.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/arch/vfs_lwip.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/port/esp32/include/arch/vfs_lwip.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/sys/poll.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/sys/poll.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip_addr.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip_addr.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/def.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/def.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip4_addr.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip4_addr.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip6_addr.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip6_addr.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/def.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/def.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip6_zone.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/ip6_zone.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/netif.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/netif.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/err.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/err.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/pbuf.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/pbuf.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/stats.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/stats.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/mem.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/mem.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/memp.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/memp.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/priv/memp_std.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/priv/memp_std.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/priv/memp_priv.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/priv/memp_priv.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/priv/mem_priv.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/priv/mem_priv.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/inet.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/inet.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/errno.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/lwip/lwip/src/include/lwip/errno.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/config.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/config.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/esp_mem.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/esp_mem.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_time.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_time.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/net_sockets.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/net_sockets.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/bignum.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/bignum.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_ciphersuites.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_ciphersuites.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/cipher.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/cipher.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crt.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crt.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crl.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crl.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/dhm.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/dhm.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdh.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdh.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/mbedtls/esp_debug.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/mbedtls/esp_debug.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/entropy.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/entropy.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/sha512.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/sha512.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/sha512_alt.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/sha512_alt.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ctr_drbg.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ctr_drbg.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/aes.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/aes.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/aes_alt.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/aes_alt.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/esp32/aes.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/port/include/esp32/aes.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_types.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_types.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/aes.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/aes.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/error.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/error.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/certs.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/mbedtls/mbedtls/include/mbedtls/certs.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log_internal.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log_internal.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/include/esp_transport.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/include/esp_transport.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/include/esp_transport_ssl.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/include/esp_transport_ssl.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/include/esp_transport.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/include/esp_transport.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/private_include/esp_transport_utils.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/private_include/esp_transport_utils.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/private_include/esp_transport_ssl_internal.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/tcp_transport/private_include/esp_transport_ssl_internal.h:
 /esp-idf/components/tcp_transport/./transport_ssl.c:

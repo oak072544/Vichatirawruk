@@ -1,0 +1,42 @@
+%implements s3_b0_x5fom_Terminate "C"
+
+%function Terminate(block, system) Output
+%assign cfgTxt = ""
+%openfile cfgTxt
+%assign localVarDecl = ""
+%assign tlcTerminateFcnOfS3B0 = OpaqueTLCBlockFcn("Terminate", 3, 0, 0, 1, 0)
+%assign tlcTerminateFcnOfS3B2 = OpaqueTLCBlockFcn("Terminate", 3, 2, 0, 1, 1)
+%assign tlcTerminateFcnOfS3B4 = OpaqueTLCBlockFcn("Terminate", 3, 4, 0, 1, 2)
+%assign tlcTerminateFcnOfS3B6 = OpaqueTLCBlockFcn("Terminate", 3, 6, 0, 1, 3)
+%assign tlcTerminateFcnOfS3B7 = OpaqueTLCBlockFcn("Terminate", 3, 7, 0, 1, 4)
+%if !WHITE_SPACE(tlcTerminateFcnOfS3B0)
+/* Terminate for S-Function (esp32_adc): '<Root>/ADC' */
+%<SLibCG_DumpSSCode("/*@[3b29*/",tlcTerminateFcnOfS3B0,"/*@]*/")>\
+%endif
+%if !WHITE_SPACE(tlcTerminateFcnOfS3B2)
+/* Terminate for S-Function (esp32_digital_output3): '<Root>/Digital Out' */
+%<SLibCG_DumpSSCode("/*@[3b2b*/",tlcTerminateFcnOfS3B2,"/*@]*/")>\
+%endif
+%if !WHITE_SPACE(tlcTerminateFcnOfS3B4)
+/* Terminate for S-Function (esp32_digital_output3): '<Root>/Digital Out1' */
+%<SLibCG_DumpSSCode("/*@[3b2d*/",tlcTerminateFcnOfS3B4,"/*@]*/")>\
+%endif
+%if !WHITE_SPACE(tlcTerminateFcnOfS3B6)
+/* Terminate for S-Function (esp32_digital_output3): '<Root>/Digital Out2' */
+%<SLibCG_DumpSSCode("/*@[3b2f*/",tlcTerminateFcnOfS3B6,"/*@]*/")>\
+%endif
+%if !WHITE_SPACE(tlcTerminateFcnOfS3B7)
+/* Terminate for S-Function (esp32_target_setup): '<Root>/Waijung 2 Target Setup' */
+%<SLibCG_DumpSSCode("/*@[3b30*/",tlcTerminateFcnOfS3B7,"/*@]*/")>\
+%endif
+%closefile cfgTxt
+%<cfgTxt>
+%endfunction
+%function TerminateFcnProtoType(block, system) Output
+%assign fcnProtoType = ""
+%openfile fcnProtoType
+static void Terminate(\
+%assign comma = ""
+%closefile fcnProtoType
+%<SLibCG_SetFcnProtoType(0, 1, fcnProtoType)>
+%endfunction

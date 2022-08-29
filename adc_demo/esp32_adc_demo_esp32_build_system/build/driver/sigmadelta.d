@@ -1,105 +1,105 @@
 sigmadelta.o: \
- D:/waijung2/targets/esp32/setup/esp-idf/components/driver/sigmadelta.c \
- D:/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log.h \
- D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log_internal.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/driver/include/driver/sigmadelta.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_types.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/sigmadelta_periph.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_sd_struct.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_sd_reg.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/soc.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_assert.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_bit_defs.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/driver/include/driver/gpio.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/gpio.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_intr_alloc.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_api.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/hal.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_context.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/corebits.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/gpio_periph.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_pins.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/io_mux_reg.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_struct.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_reg.h \
- D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_sig_map.h
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/driver/sigmadelta.c \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log.h \
+ C:/Users/oak07/Documents/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log_internal.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/driver/include/driver/sigmadelta.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_types.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/sigmadelta_periph.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_sd_struct.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_sd_reg.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/soc.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_assert.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_bit_defs.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/driver/include/driver/gpio.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/gpio.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_intr_alloc.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_api.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/hal.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_context.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/corebits.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/gpio_periph.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_pins.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/io_mux_reg.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_struct.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_reg.h \
+ C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_sig_map.h
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log.h:
 
-D:/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
+C:/Users/oak07/Documents/Vichatirawruk/adc_demo/esp32_adc_demo_esp32_build_system/build/include/sdkconfig.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/ets_sys.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log_internal.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/log/include/esp_log_internal.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/driver/include/driver/sigmadelta.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/driver/include/driver/sigmadelta.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_types.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_types.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/sigmadelta_periph.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/sigmadelta_periph.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_sd_struct.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_sd_struct.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_sd_reg.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_sd_reg.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/soc.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/soc.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_assert.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_assert.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/newlib/platform_include/assert.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_bit_defs.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_bit_defs.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/driver/include/driver/gpio.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/driver/include/driver/gpio.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_common/include/esp_err.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/gpio.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp_rom/include/esp32/rom/gpio.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_attr.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_intr_alloc.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/esp32/include/esp_intr_alloc.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_api.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_api.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/hal.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/hal.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_context.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/freertos/include/freertos/xtensa_context.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/corebits.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/corebits.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/gpio_periph.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/include/soc/gpio_periph.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_pins.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_pins.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/io_mux_reg.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/io_mux_reg.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_struct.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_struct.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_reg.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_reg.h:
 
-D:/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_sig_map.h:
+C:/Users/oak07/Downloads/waijung2/targets/esp32/setup/esp-idf/components/soc/esp32/include/soc/gpio_sig_map.h:
 /esp-idf/components/driver/./sigmadelta.c:

@@ -1,0 +1,50 @@
+%implements s3_b0_w8fom_Outputs "C"
+
+%function Outputs(block, system) Output
+%assign cfgTxt = ""
+%openfile cfgTxt
+%assign localVarDecl = ""
+%assign tlcOutputsFcnOfS3B0 = OpaqueTLCBlockFcn("Outputs", 3, 0, 0, 0, 0)
+%assign tlcOutputsFcnOfS3B2 = OpaqueTLCBlockFcn("Outputs", 3, 2, 0, 0, 1)
+%assign tlcOutputsFcnOfS3B4 = OpaqueTLCBlockFcn("Outputs", 3, 4, 0, 0, 2)
+%assign tlcOutputsFcnOfS3B6 = OpaqueTLCBlockFcn("Outputs", 3, 6, 0, 0, 3)
+%assign tlcOutputsFcnOfS3B7 = OpaqueTLCBlockFcn("Outputs", 3, 7, 0, 0, 4)
+%if !WHITE_SPACE(tlcOutputsFcnOfS3B0)
+/* S-Function (esp32_adc): '<Root>/ADC' */
+%<SLibCG_DumpSSCode("/*@[3b1a*/",tlcOutputsFcnOfS3B0,"/*@]*/")>\
+%endif
+/* MATLAB Function: '<Root>/MATLAB Function1' */
+/*@>3832*/esp32_adc_demo_B./*@>42af*/y_a/*@>1b6b*/ = (/*@>3838*/esp32_adc_demo_B./*@>42b2*/ADC/*@>1b6d*/ <= /*@>2a0a*/500);
+%if !WHITE_SPACE(tlcOutputsFcnOfS3B2)
+/* S-Function (esp32_digital_output3): '<Root>/Digital Out' */
+%<SLibCG_DumpSSCode("/*@[3b1c*/",tlcOutputsFcnOfS3B2,"/*@]*/")>\
+%endif
+/* MATLAB Function: '<Root>/MATLAB Function' */
+/*@>3848*/esp32_adc_demo_B./*@>42b5*/y_m/*@>1b83*/ = (/*@>384e*/esp32_adc_demo_B./*@>42b8*/ADC/*@>1b85*/ <= /*@>2a0f*/700);
+%if !WHITE_SPACE(tlcOutputsFcnOfS3B4)
+/* S-Function (esp32_digital_output3): '<Root>/Digital Out1' */
+%<SLibCG_DumpSSCode("/*@[3b1e*/",tlcOutputsFcnOfS3B4,"/*@]*/")>\
+%endif
+/* MATLAB Function: '<Root>/MATLAB Function2' */
+/*@>385e*/esp32_adc_demo_B./*@>42bb*/y/*@>1b9b*/ = (/*@>3864*/esp32_adc_demo_B./*@>42be*/ADC/*@>1b9d*/ >= /*@>2a14*/500);
+%if !WHITE_SPACE(tlcOutputsFcnOfS3B6)
+/* S-Function (esp32_digital_output3): '<Root>/Digital Out2' */
+%<SLibCG_DumpSSCode("/*@[3b20*/",tlcOutputsFcnOfS3B6,"/*@]*/")>\
+%endif
+%if !WHITE_SPACE(tlcOutputsFcnOfS3B7)
+/* S-Function (esp32_target_setup): '<Root>/Waijung 2 Target Setup' */
+%<SLibCG_DumpSSCode("/*@[3b21*/",tlcOutputsFcnOfS3B7,"/*@]*/")>\
+%endif
+%<SLibInsertSolverResetCode()>\
+%closefile cfgTxt
+%<cfgTxt>
+%<LibSetSystemField(system, "CachedOutputLocalVars", localVarDecl)>
+%endfunction
+%function OutputsFcnProtoType(block, system) Output
+%assign fcnProtoType = ""
+%openfile fcnProtoType
+static void Outputs(\
+%assign comma = ""
+%closefile fcnProtoType
+%<SLibCG_SetFcnProtoType(0, 0, fcnProtoType)>
+%endfunction

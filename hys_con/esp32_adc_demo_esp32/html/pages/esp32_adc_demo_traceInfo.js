@@ -1,0 +1,37 @@
+function RTW_rtwnameSIDMap() {
+	this.rtwnameHashMap = new Array();
+	this.sidHashMap = new Array();
+	this.rtwnameHashMap["<Root>"] = {sid: "esp32_adc_demo"};
+	this.sidHashMap["esp32_adc_demo"] = {rtwname: "<Root>"};
+	this.rtwnameHashMap["<S1>"] = {sid: "esp32_adc_demo:13"};
+	this.sidHashMap["esp32_adc_demo:13"] = {rtwname: "<S1>"};
+	this.rtwnameHashMap["<S2>"] = {sid: "esp32_adc_demo:15"};
+	this.sidHashMap["esp32_adc_demo:15"] = {rtwname: "<S2>"};
+	this.rtwnameHashMap["<S3>"] = {sid: "esp32_adc_demo:16"};
+	this.sidHashMap["esp32_adc_demo:16"] = {rtwname: "<S3>"};
+	this.rtwnameHashMap["<Root>/ADC"] = {sid: "esp32_adc_demo:2"};
+	this.sidHashMap["esp32_adc_demo:2"] = {rtwname: "<Root>/ADC"};
+	this.rtwnameHashMap["<Root>/Digital Out"] = {sid: "esp32_adc_demo:8"};
+	this.sidHashMap["esp32_adc_demo:8"] = {rtwname: "<Root>/Digital Out"};
+	this.rtwnameHashMap["<Root>/Digital Out1"] = {sid: "esp32_adc_demo:14"};
+	this.sidHashMap["esp32_adc_demo:14"] = {rtwname: "<Root>/Digital Out1"};
+	this.rtwnameHashMap["<Root>/Digital Out2"] = {sid: "esp32_adc_demo:17"};
+	this.sidHashMap["esp32_adc_demo:17"] = {rtwname: "<Root>/Digital Out2"};
+	this.rtwnameHashMap["<Root>/MATLAB Function"] = {sid: "esp32_adc_demo:13"};
+	this.sidHashMap["esp32_adc_demo:13"] = {rtwname: "<Root>/MATLAB Function"};
+	this.rtwnameHashMap["<Root>/MATLAB Function1"] = {sid: "esp32_adc_demo:15"};
+	this.sidHashMap["esp32_adc_demo:15"] = {rtwname: "<Root>/MATLAB Function1"};
+	this.rtwnameHashMap["<Root>/MATLAB Function2"] = {sid: "esp32_adc_demo:16"};
+	this.sidHashMap["esp32_adc_demo:16"] = {rtwname: "<Root>/MATLAB Function2"};
+	this.rtwnameHashMap["<Root>/Waijung 2 Target Setup"] = {sid: "esp32_adc_demo:1"};
+	this.sidHashMap["esp32_adc_demo:1"] = {rtwname: "<Root>/Waijung 2 Target Setup"};
+	this.rtwnameHashMap["<S1>:1"] = {sid: "esp32_adc_demo:13:1"};
+	this.sidHashMap["esp32_adc_demo:13:1"] = {rtwname: "<S1>:1"};
+	this.rtwnameHashMap["<S2>:1"] = {sid: "esp32_adc_demo:15:1"};
+	this.sidHashMap["esp32_adc_demo:15:1"] = {rtwname: "<S2>:1"};
+	this.rtwnameHashMap["<S3>:1"] = {sid: "esp32_adc_demo:16:1"};
+	this.sidHashMap["esp32_adc_demo:16:1"] = {rtwname: "<S3>:1"};
+	this.getSID = function(rtwname) { return this.rtwnameHashMap[rtwname];}
+	this.getRtwname = function(sid) { return this.sidHashMap[sid];}
+}
+RTW_rtwnameSIDMap.instance = new RTW_rtwnameSIDMap();

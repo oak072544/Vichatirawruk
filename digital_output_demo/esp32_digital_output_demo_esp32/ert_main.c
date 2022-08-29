@@ -10,7 +10,7 @@
  *
  * Model version                  : 8.1
  * Simulink Coder version         : 9.7 (R2022a) 13-Nov-2021
- * C/C++ source code generated on : Thu Aug 18 08:44:00 2022
+ * C/C++ source code generated on : Mon Aug 29 20:41:55 2022
  *
  * Target selection: esp32.tlc
  * Embedded hardware selection: Cadence Design Systems (Tensilica)->Xtensa® single-/dual-core 32-bit LX6 microprocessor
@@ -46,7 +46,7 @@
  * Waijung 2 version: 20.11b
  * Waijung 2 target: ESP32
  * Target OS: FreeRTOS
- * Project path: D:\waijung2\targets\esp32\demo\digital_output_demo\esp32_digital_output_demo_esp32_build_system
+ * Project path: C:\Users\oak07\Documents\Vichatirawruk\digital_output_demo\esp32_digital_output_demo_esp32_build_system
  * Toolchain: ESP-IDF
  * ESP-IDF path: C:\msys32\home\skris\esp\esp-idf
  *===============================================================

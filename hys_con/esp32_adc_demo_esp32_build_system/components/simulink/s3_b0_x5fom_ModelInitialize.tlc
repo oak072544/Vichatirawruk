@@ -1,0 +1,68 @@
+%implements s3_b0_x5fom_ModelInitialize "C"
+
+%function ModelInitialize(block, system) Output
+%assign cfgTxt = ""
+%openfile cfgTxt
+%assign localVarDecl = ""
+%assign tlcStartFcnOfS3B0 = OpaqueTLCBlockFcn("Start", 3, 0, 0, 2, 0)
+%assign tlcStartFcnOfS3B2 = OpaqueTLCBlockFcn("Start", 3, 2, 0, 2, 1)
+%assign tlcStartFcnOfS3B4 = OpaqueTLCBlockFcn("Start", 3, 4, 0, 2, 2)
+%assign tlcStartFcnOfS3B6 = OpaqueTLCBlockFcn("Start", 3, 6, 0, 2, 3)
+%assign tlcEnableFcnOfS3B0 = OpaqueTLCBlockFcn("Enable", 3, 0, 0, 2, 4)
+%assign tlcEnableFcnOfS3B2 = OpaqueTLCBlockFcn("Enable", 3, 2, 0, 2, 5)
+%assign tlcEnableFcnOfS3B4 = OpaqueTLCBlockFcn("Enable", 3, 4, 0, 2, 6)
+%assign tlcEnableFcnOfS3B6 = OpaqueTLCBlockFcn("Enable", 3, 6, 0, 2, 7)
+%assign tlcEnableFcnOfS3B7 = OpaqueTLCBlockFcn("Enable", 3, 7, 0, 2, 8)
+%<SLibInsertAsyncTaskInitializeCode(system)>
+%<SLibWriteMachineInitialize()>
+%<SLibCGIRDumpSystemUserCode(3, "Start", "Header")>\
+%<SLibCGIRDumpSystemUserCode(3, "Start", "Body")>\
+%if !WHITE_SPACE(tlcStartFcnOfS3B0)
+/* Start for S-Function (esp32_adc): '<Root>/ADC' */
+%<SLibCG_DumpSSCode("/*@[3b44*/",tlcStartFcnOfS3B0,"/*@]*/")>\
+%endif
+%if !WHITE_SPACE(tlcStartFcnOfS3B2)
+/* Start for S-Function (esp32_digital_output3): '<Root>/Digital Out' */
+%<SLibCG_DumpSSCode("/*@[3b46*/",tlcStartFcnOfS3B2,"/*@]*/")>\
+%endif
+%if !WHITE_SPACE(tlcStartFcnOfS3B4)
+/* Start for S-Function (esp32_digital_output3): '<Root>/Digital Out1' */
+%<SLibCG_DumpSSCode("/*@[3b48*/",tlcStartFcnOfS3B4,"/*@]*/")>\
+%endif
+%if !WHITE_SPACE(tlcStartFcnOfS3B6)
+/* Start for S-Function (esp32_digital_output3): '<Root>/Digital Out2' */
+%<SLibCG_DumpSSCode("/*@[3b4a*/",tlcStartFcnOfS3B6,"/*@]*/")>\
+%endif
+%<SLibCGIRDumpSystemUserCode(3, "Start", "Trailer")>\
+%if !WHITE_SPACE(tlcEnableFcnOfS3B0)
+/* Enable for S-Function (esp32_adc): '<Root>/ADC' */
+%<SLibCG_DumpSSCode("/*@[3b4d*/",tlcEnableFcnOfS3B0,"/*@]*/")>\
+%endif
+%if !WHITE_SPACE(tlcEnableFcnOfS3B2)
+/* Enable for S-Function (esp32_digital_output3): '<Root>/Digital Out' */
+%<SLibCG_DumpSSCode("/*@[3b4f*/",tlcEnableFcnOfS3B2,"/*@]*/")>\
+%endif
+%if !WHITE_SPACE(tlcEnableFcnOfS3B4)
+/* Enable for S-Function (esp32_digital_output3): '<Root>/Digital Out1' */
+%<SLibCG_DumpSSCode("/*@[3b51*/",tlcEnableFcnOfS3B4,"/*@]*/")>\
+%endif
+%if !WHITE_SPACE(tlcEnableFcnOfS3B6)
+/* Enable for S-Function (esp32_digital_output3): '<Root>/Digital Out2' */
+%<SLibCG_DumpSSCode("/*@[3b53*/",tlcEnableFcnOfS3B6,"/*@]*/")>\
+%endif
+%if !WHITE_SPACE(tlcEnableFcnOfS3B7)
+/* Enable for S-Function (esp32_target_setup): '<Root>/Waijung 2 Target Setup' */
+%<SLibCG_DumpSSCode("/*@[3b54*/",tlcEnableFcnOfS3B7,"/*@]*/")>\
+%endif
+%<SLibInsertInitPeriodicCStatesFcn(system)>
+%closefile cfgTxt
+%<cfgTxt>
+%endfunction
+%function ModelInitializeFcnProtoType(block, system) Output
+%assign fcnProtoType = ""
+%openfile fcnProtoType
+static void ModelInitialize(\
+%assign comma = ""
+%closefile fcnProtoType
+%<SLibCG_SetFcnProtoType(0, 2, fcnProtoType)>
+%endfunction
